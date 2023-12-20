@@ -1,7 +1,7 @@
 **Proyecto de Automatizacion de página web.
 Python + Selenium**
 
-Este proyecto fue creado a petición de *[Emiliano Cabrera Pérez](https://github.com/ECabrera3094), maestro en [QA Minds Lab*](https://www.qamindslab.com/), como proyecto final del curso de SELENIUM WEBDRIVER / PYTHON. 
+Este proyecto fue creado a petición de [Emiliano Cabrera Pérez](https://github.com/ECabrera3094), maestro en [QA Minds Lab](https://www.qamindslab.com/), como proyecto final del curso de SELENIUM WEBDRIVER / PYTHON. 
 
 El proyecto consistió en realizar un caso de pruebas automatizadas en la página https://industriamaquiladora.com/. 
 
