@@ -14,7 +14,7 @@ class test_tc_1(BaseCase):
         # Elegir al menos 20 productos. Los que tengan al menos 3 proveedores,
         # Imprimir en un archivo la información de dichos proveedores.
         i = 0
-        for i in range(3):
+        for i in range(20):
             listaDeMateriales = self.find_elements(MyLocators.materialUnoporUno)
             material = listaDeMateriales[i]
             # print(f'Vuelta: {i}, {material.text}')
